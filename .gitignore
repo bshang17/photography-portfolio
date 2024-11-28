@@ -76,3 +76,8 @@ jspm_packages
 .node_repl_history
 
 /Gemfile.lock
+1.py
+lpips_vs_accuracy.png
+plot.py
+psnr_vs_accuracy.png
+ssim_vs_accuracy.png
